@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Mumblr"
+date:   2016-02-15 9:00:00 -0500
+categories: portfolio
+---
+
+<img src="/images/mumblr.png" class="fit image">Mumblr was my first attempt at a web app; a microblogging site with users, posts and following capabilities. The main feature of Mumblr is a Ruby function that removes every other vowel from a post before its saved to the database. This project was done with Kyle McCloskey and Steven Rayesky.
+
+GitHub: https://github.com/kmccloskey/microblog
+
+Heroku deployment coming soon!

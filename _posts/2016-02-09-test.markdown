@@ -1,8 +1,0 @@
----
-layout: post
-title:  "TEST Blog"
-date:   2016-02-09 2:00:00 -0500
-categories: general, meta
----
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptatibus quia temporibus libero aut placeat tempore ex itaque ducimus ut incidunt, minus vel. Modi quod animi saepe voluptate, optio quas.

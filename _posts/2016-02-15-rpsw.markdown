@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Rock, Paper, Scissors: Wizard!"
+date:   2016-02-15 10:00:00 -0500
+categories: portfolio
+---
+
+<img src="/images/rpsw.png" class="fit image">Rock, Paper, Scissors: Wizard! is a video-game that takes the classic rock, paper, scissors game and adds an extra twist by allowing the user to play as a dark or light wizard.
+
+
+GitHub: https://github.com/MichaelManwaring/rock_paper_wizard
