@@ -3,6 +3,9 @@ layout: default
 ---
 <div id="main">
     <article>
+
+        {% include header.html %}
+
         <header class="major">
                 <h2 class="post-title">{{ page.title }}</h2>
                 <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
