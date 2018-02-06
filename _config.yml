@@ -1,0 +1,43 @@
+# Site settings
+title: Michael Manwaring
+description: 'Web Developer'
+url: 'http://michaelcmanwaring.com'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Michael Manwaring'
+  email: michael.c.manwaring@gmail.com
+  twitter_username: mchlmnwrng
+  facebook_username: michael.manwaring
+  github_username:  michaelmanwaring
+  linkedin_username:  michaelcmanwaring
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

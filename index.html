@@ -1,0 +1,24 @@
+---
+layout: default
+robots: noindex
+---
+
+<div class="main-post-list">
+
+  <ol class="post-list">
+    {% for post in paginator.posts %}
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+        <li>
+          <p class="excerpt">{{ post.excerpt}}</p>
+        </li>
+      </a>
+    {% endfor %}
+  </ol>
+
+  <!-- <hr class="post-list__divider "> -->
+
+  {% if paginator.previous_page or paginator.next_page %}
+      {% include pagination.html %}
+  {% endif %}
+
+</div>

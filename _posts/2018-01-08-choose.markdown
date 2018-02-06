@@ -1,0 +1,42 @@
+---
+title:  "choose."
+date:   2018-01-08 
+categories: portfolio
+tags: portfolio
+---
+![Image alt]({{ site.baseurl }}/images/choose.png "choose")
+
+
+# My final project at NYCDA Web Development Bootcamp was a webapp called [choose.](http://ch00se.herokuapp.com)
+
+
+I enjoyed the creative and building processes so much that I continue to update and tweak it as I learn new tricks. I wanted to build something that would be practical and helpful, while showing off the breadth of what I had learned. After several false starts and a crippling case of indecision, I was overwhelmed with options and just needed to move forward with development. Necessity being the mother of invention, I built an app to help me decide. 
+
+<br>
+
+---
+<br>
+
+# Whenever you set out to make something, its usually a good idea to investigate how people have tackled similar problems before. 
+In the case of decision making, the [coin-toss](https://en.wikipedia.org/wiki/Coin_flipping) has been the standard for thousands of years. The random bianary output is fair to both options and absolute in its result. Many famous thinkers through the ages have pointed out that the moment the coin is in the air, the flipper's true desires are often revealed to them. 
+
+Everyone has different biases and preferences, so giving equal weight to each option might not be the most useful. What if the coin in your pocket could get to know you and give you more helpful results? 
+
+That is essentially what happens when you sign up for [choose.](http://ch00se.herokuapp.com) There are several categories of decisions available and [choose.](http://ch00se.herokuapp.com) tracks your preference in each based on your responses.  Learning your preference in each category enables it to skew its answers to fit your personality. Signing up is easy thanks to Facebook authentication, but you can also join with an email address, or use the app without signing in for a quick answer.
+
+<br>
+
+---
+<br>
+
+# When will the average user need my app?
+Since most of the dillemas that we face arise in the moment and don't afford us the luxury of being able to go home to our computer; [choose.](http://ch00se.herokuapp.com) had to be fully functional on mobile devices. If you would like to get the full experience be sure to check it out on your phone.
+
+However for bigger decisions, this may be a little *too* quick and calculated. The "Custom Decision" option takes this into account. You can explain your situation and the possibilities, then allow other [choose.](http://ch00se.herokuapp.com) users to vote for what they believe you should do. Since these things can be sensitive and personal, all of the social interactive portions of the app are completely anonymous. This protects the person who submitted the decision, as well as giving the voters the ability to be completely honest.
+
+<br>
+
+---
+<br>
+
+# [Try it out](http://ch00se.herokuapp.com)! Make some decisions! If you have any suggestions please don't hesitate to let me know!
