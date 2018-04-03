@@ -6,4 +6,4 @@ tags: portfolio
 ---
 ![Image alt]({{ site.baseurl }}/images/soothing.png "soothing")
 
-# [Soothing Hues](http://randompixelartmaker.herokuapp.com) is the final project in my Google Scholarship Challenge. Have fun playing with this slightly erratic, somehow calming drawing app.
+# [Soothing Hues](http://soothinghues.herokuapp.com) is the final project in my Google Scholarship Challenge. Have fun playing with this slightly erratic, somehow calming drawing app.
